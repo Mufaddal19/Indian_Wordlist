@@ -2,7 +2,7 @@ This repository hosts passwords collected from Indian Credential Leaks.
 
 **Why I compiled this list?**
 
-The standard dictionalies like rockyou, dark0de are not inefficient to crack Indian Passwords.
+The standard dictionalies like rockyou, darkc0de are inefficient to crack Indian Passwords.
 It contains majority passwords that people in my country (India ❤️) would never use.
 
 So that leaves two options :
