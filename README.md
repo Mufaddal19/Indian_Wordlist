@@ -1,5 +1,5 @@
 Intro:
-This repository hosts passwords collected from Indian Credential Leaks throoughout 2013-2022.
+This repository hosts passwords collected from Indian Credential Leaks.
 
 Why I stared this?
 
